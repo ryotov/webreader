@@ -1,0 +1,3 @@
+{
+	"run_list": [ "recipe[apt]", "recipe[nodejs]", "recipe[grunt_cookbook]", "recipe[bower-cookbook]", "recipe[zip]", "recipe[webreader]", "recipe[logrotate]", "recipe[proftpd]" ]
+}
